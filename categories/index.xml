@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ATELIER ELÉNE</title>
-    <link>https://atelier-elene.github.io/categories/</link>
-    <description>Recent content in Categories on ATELIER ELÉNE</description>
+    <title>Categories on Joy 的人生旅行遊記</title>
+    <link>https://jessiejoy06.github.io/categories/</link>
+    <description>Recent content in Categories on Joy 的人生旅行遊記</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://atelier-elene.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jessiejoy06.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>特殊選才專區</title>
-      <link>https://atelier-elene.github.io/categories/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E5%B0%88%E5%8D%80/</link>
+      <link>https://jessiejoy06.github.io/categories/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E5%B0%88%E5%8D%80/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://atelier-elene.github.io/categories/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E5%B0%88%E5%8D%80/</guid>
+      <guid>https://jessiejoy06.github.io/categories/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E5%B0%88%E5%8D%80/</guid>
       <description></description>
     </item>
     <item>
       <title>閱讀書摘</title>
-      <link>https://atelier-elene.github.io/categories/%E9%96%B1%E8%AE%80%E6%9B%B8%E6%91%98/</link>
+      <link>https://jessiejoy06.github.io/categories/%E9%96%B1%E8%AE%80%E6%9B%B8%E6%91%98/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://atelier-elene.github.io/categories/%E9%96%B1%E8%AE%80%E6%9B%B8%E6%91%98/</guid>
+      <guid>https://jessiejoy06.github.io/categories/%E9%96%B1%E8%AE%80%E6%9B%B8%E6%91%98/</guid>
       <description></description>
     </item>
   </channel>
